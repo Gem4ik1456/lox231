@@ -1,0 +1,135 @@
+body {
+    background: url(/img/Cardify.png) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.social {
+    width: 50px;
+    height: 40px;
+    margin-right: 20px;
+}
+
+.social_block {
+    content: "";
+    left: 46.5%;
+    top: 76%;
+    position: absolute;
+    cursor: pointer;
+    text-decoration: none;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+  
+  @media  only screen and (max-height:3000px) {
+    .social {
+      width: 120px;
+      height: 100px;
+    }
+    .social_block {
+        top: 80%;
+    }
+  }
+  
+
+  @media  only screen and (max-height:1920px) {
+    .social {
+      width: 100px;
+      height: 80px;
+    }
+  }
+  
+  @media  only screen and (max-height:1440px) {
+    .social {
+      width: 70px;
+      height: 60px;
+    }
+  }
+
+  
+  @media  only screen and (max-height:1200px) {
+    .social {
+      width: 55px;
+      height: 45px;
+    }
+  }
+  
+  @media  only screen and (max-height:900px) {
+    .social {
+      width: 35px;
+      height: 30px;
+    }
+  }
+  
+  @media  only screen and (max-height:700px) {
+    .social {
+      width: 30px;
+      height: 25px;
+    }
+  }
+  
+  
+  @media  only screen and (max-height:420px) {
+    .social {
+      width: 25px;
+      height: 20px;
+    }
+  }
+  
+  
+  @media  only screen and (max-width:580px) {
+    .social {
+      width: 40px;
+      height: 35px;
+    }
+  }
+  
+  @media  only screen and (max-width:550px) {
+    .social {
+      width: 40px;
+      height: 35px;
+    }
+  }
+  
+  
+  @media  only screen and (max-width:400px) {
+    .social {
+      width: 40px;
+      height: 35px;
+    }
+  }
+  
+  @media  only screen and (max-width:420px) {
+    .social {
+      width: 40px;
+      height: 35px;
+    }
+  }
+  
+  
+  @media  only screen and (max-width:350px) {
+    .social {
+      width: 35px;
+      height: 30px;
+    }
+  }
+  
+  @media  only screen and (max-width:300px) {
+    .social {
+      width: 30px;
+      height: 27px;
+    }
+  }
+  
+  @media  only screen and (max-width:250px) {
+    .social {
+      width: 20px;
+      height: 17px;
+    }
+  }
